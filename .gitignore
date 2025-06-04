@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+.env
+
+# Data
+/raw_books_data/
+/cleaned_data/
+
+# System
+.DS_Store
+Thumbs.db
