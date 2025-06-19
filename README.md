@@ -3,7 +3,7 @@
 **Downloads and cleans the Kaggle Books Dataset**  
 *(saurabhbagchi/books-dataset)*
 
-## 🚀 Quick Start
+Installation and running
 1. Install: `pip install pandas kaggle`
 2. Add `kaggle.json` to `~/.kaggle/`
 3. Run:
